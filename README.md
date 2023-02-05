@@ -11,8 +11,3 @@ admin management all employees
 ![2022-04-21_112137](https://user-images.githubusercontent.com/86986628/164359121-61b1397a-9ddb-46d3-bc22-6faed54d1fc3.png)
 ![2022-04-21_112321](https://user-images.githubusercontent.com/86986628/164359125-3a8461fd-3c30-463b-a3cf-55c7efc51b6e.png)
 
-## Contact Link
-
-[telegram] (https://t.me/ProDev1205)
-
-[Skype] (https://join.skype.com/invite/xAHPnMKaZkkk)
